@@ -1,0 +1,13 @@
+#################
+## terraform
+#################
+
+/.idea
+/.terraform
+/src
+if-095-devops-8a080095b346.json
+terraformGoogleCloud.iml
+terraform.tfstate.backup
+terraform.tfstate
+readme.txt
+gcp.json
